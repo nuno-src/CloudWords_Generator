@@ -1,4 +1,4 @@
-from wordcloud import WordCloud, STOPWORDS,ImageColorGenerator
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import numpy as np
 import matplotlib.pyplot as plt
 import PIL.Image
